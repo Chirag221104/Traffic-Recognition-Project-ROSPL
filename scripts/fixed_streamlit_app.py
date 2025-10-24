@@ -170,6 +170,7 @@ def run():
                   f"Predicted Class: **{best_result['class']}**  \n" 
                   f"Confidence: **{best_result['confidence']:.2f}%**")
         
+        #
         # Show improvement over original
         original_conf = predictions['Original']['confidence']
         best_conf = best_result['confidence']
