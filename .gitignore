@@ -3,3 +3,16 @@ __pycache__/
 *.npy
 *.png
 outputs/
+scripts/updated_streamlit_app.py
+scripts/simple_enhanced_streamlit.py
+scripts/enhanced_streamlit_app.py
+models/final_model.h5
+models/latest_model.h5
+scripts/train_traffic_sign_model.py
+scripts/test.py
+scripts/test_model.py
+scripts/test_tf.py
+scripts/traffic_env/
+traffic_env/
+scripts/clean_env/
+env/
